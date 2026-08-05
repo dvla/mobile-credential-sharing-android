@@ -4,7 +4,7 @@ object MockCredentials {
 
     fun getMockCredentialStates(): List<MockCredentialState> = listOf(
         MockCredentialState(
-            displayName = "Jane Doe"
+            displayName = "Jack Morris"
         )
     )
 }

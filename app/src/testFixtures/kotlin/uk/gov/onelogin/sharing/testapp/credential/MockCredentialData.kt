@@ -1,7 +1,7 @@
 package uk.gov.onelogin.sharing.testapp.credential
 
 object MockCredentialData {
-    val mockCredentialState = MockCredentialState(displayName = "Jane Doe")
+    val mockCredentialState = MockCredentialState(displayName = "Jack Morris")
 
     val mockPrivateKeyPem = """
         -----BEGIN PRIVATE KEY-----
